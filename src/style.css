@@ -15,4 +15,21 @@ h3{
 
 h3{
    color: darkred;
+   
+}
+
+.cor-especial{
+   background-color: darkred;
+   color: white;
+   border: none;
+}
+
+.card-imagem{
+   object-fit: cover;
+   height: 200px;
+}
+
+.card{
+   max-width: 18rem;
+   border: 1px solid darkred;
 }
